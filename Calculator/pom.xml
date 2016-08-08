@@ -48,7 +48,7 @@
                                 <goal>jmeter</goal>
                             </goals>
                             <configuration>
-                                <skipTests>${skipTests}</skipTests> <!-- default true -->
+                                <skipTests>${skipTests}</skipTests> 
                                 <ignoreResultFailures>true</ignoreResultFailures>
                                 <suppressJMeterOutput>false</suppressJMeterOutput>
                                     <propertiesUser> 
