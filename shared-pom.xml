@@ -17,7 +17,7 @@
 	<groupId>apigee</groupId>
 	<artifactId>PT</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
     <pluginRepositories>
         <pluginRepository>
             <id>central</id>
